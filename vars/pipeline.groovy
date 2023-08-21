@@ -5,7 +5,7 @@ new sum(a,b)
 
 new sub(a,b)
 {
-  echo "Subtraction of ${a} and ${b} is ${a+b}"
+  echo "Subtraction of ${a} and ${b} is ${a-b}"
 }
 
 new mul(a,b)
